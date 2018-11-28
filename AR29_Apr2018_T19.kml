@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>AR29_Apr2018_T19</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>D20180425T014042_IFCB127</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T014042_IFCB127.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.83,39.752,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T020804_IFCB014</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T020804_IFCB014.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.831,39.789,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T023155_IFCB014</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T023155_IFCB014.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.83,39.816,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T023212_IFCB127</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T023212_IFCB127.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.83,39.816,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T025508_IFCB127</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T025508_IFCB127.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.828,39.831,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T030031_IFCB014</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T030031_IFCB014.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.83,39.849,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T031804_IFCB127</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T031804_IFCB127.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.82899999999999,39.88,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T032425_IFCB014</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T032425_IFCB014.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.828,39.88,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T034100_IFCB127</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T034100_IFCB127.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.82599999999999,39.881,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T035300_IFCB014</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T035300_IFCB014.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.828,39.913,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T040357_IFCB127</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T040357_IFCB127.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.83,39.944,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T041654_IFCB014</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T041654_IFCB014.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.828,39.947,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T042653_IFCB127</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T042653_IFCB127.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.827,39.948,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T044531_IFCB014</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T044531_IFCB014.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.83,39.971,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T044949_IFCB127</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T044949_IFCB127.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.83,39.982,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T050924_IFCB014</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T050924_IFCB014.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.82899999999999,40.01,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T051245_IFCB127</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T051245_IFCB127.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.828,40.011,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T053541_IFCB127</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T053541_IFCB127.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.82599999999999,40.013,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T053805_IFCB014</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T053805_IFCB014.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.828,40.016,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T055837_IFCB127</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T055837_IFCB127.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.833,40.073,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T060158_IFCB014</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T060158_IFCB014.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.83199999999999,40.074,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T062133_IFCB127</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T062133_IFCB127.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.83,40.076,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T063036_IFCB014</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T063036_IFCB014.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.83199999999999,40.096,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T064430_IFCB127</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T064430_IFCB127.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.833,40.137,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T065429_IFCB014</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T065429_IFCB014.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.831,40.138,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T070726_IFCB127</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T070726_IFCB127.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.831,40.138,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T072305_IFCB014</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T072305_IFCB014.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.83199999999999,40.17,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T073022_IFCB127</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T073022_IFCB127.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.831,40.191,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T074655_IFCB014</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T074655_IFCB014.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.83,40.207,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T075318_IFCB127</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T075318_IFCB127.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.83,40.207,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T081535_IFCB014</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T081535_IFCB014.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.82899999999999,40.208,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T081614_IFCB127</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T081614_IFCB127.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.82899999999999,40.208,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T083910_IFCB127</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T083910_IFCB127.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.831,40.155,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T083916_IFCB014</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T083916_IFCB014.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.831,40.155,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T090206_IFCB127</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T090206_IFCB127.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.83,40.098,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T090751_IFCB014</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T090751_IFCB014.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.83,40.084,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T092503_IFCB127</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T092503_IFCB127.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.83,40.075,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T093143_IFCB014</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T093143_IFCB014.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.83,40.075,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T094759_IFCB127</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T094759_IFCB127.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.82899999999999,40.076,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T100013_IFCB014</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T100013_IFCB014.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.82899999999999,40.076,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T101055_IFCB127</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T101055_IFCB127.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.82899999999999,40.076,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T102407_IFCB014</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T102407_IFCB014.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.82899999999999,40.076,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D20180425T103351_IFCB127</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>http://ifcb-data.whoi.edu/SPIROPA/D20180425T103351_IFCB127.html</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-70.82899999999999,40.076,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
